@@ -8,7 +8,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12948
 [입출력]
 phone_number	return
 "01033334444"	"*******4444"
-"027778888"	  "*****8888"
+"027778888"	  "*****8888" 
 
 */
 
